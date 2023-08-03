@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">cakestore</string>
+    <string name="main_header">Explore our</string>
+    <string name="second_header">Delicious Offers</string>
+    <string name="cake_name1">Strawberry cake</string>
+    <string name="cake_name1_country">France</string>
+    <string name="cake_name2">chocolate cake</string>
+    <string name="cake_name2_country">United States</string>
+    <string name="cake_name3">pistachio cake</string>
+    <string name="cake_name3_country">Asian countries</string>
+
+    <string name="food_name1">Burger</string>
+    <string name="food_name2">fried chicken</string>
+    <string name="food_name3">burrito</string>
+    <string name="food_name4">pizza</string>
+
+    <string name="food_price1">10$</string>
+    <string name="food_price2">15$</string>
+    <string name="food_price3">5$</string>
+    <string name="food_price4">20$</string>
+    <string name="other_offers">check our fast food options</string>
+
+
+    <string name="available">available</string>
+</resources>
